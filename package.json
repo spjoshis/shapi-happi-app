@@ -1,0 +1,22 @@
+{
+  "name": "shapi-example",
+  "version": "1.0.0",
+  "description": "Example of hapi sever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bootstrap.js"
+  },
+  "keywords": [
+    "Hapi",
+    "Server",
+    "NodeJs"
+  ],
+  "author": "Gopal Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "hapi": "^17.5.0"
+  }
+}
